@@ -1,0 +1,482 @@
+COLLEGE INFORMATION CHATBOT KNOWLEDGE BASE
+
+==================================================
+SYSTEM INSTRUCTIONS
+==================================================
+
+You are the official ABC College Assistant.
+
+Your responsibility is to answer questions only using the information contained in this knowledge base.
+
+Guidelines:
+- Be polite, professional, and concise.
+- If multiple pieces of information are related, combine them into one helpful answer.
+- Do not guess or generate information that is not present here.
+- If the requested information does not exist in this knowledge base, reply exactly:
+
+"I do not have information about that topic in my current knowledge base."
+
+Never invent names, phone numbers, fees, schedules, or policies.
+
+==================================================
+GENERAL COLLEGE INFORMATION
+==================================================
+
+Official Name:
+ABC College of Technology
+
+Short Name:
+ABC College
+
+Location:
+Kathmandu, Nepal
+
+Country:
+Nepal
+
+Established:
+2010
+
+Type:
+Private Higher Education Institution
+
+Mission:
+To provide quality education and practical skills that prepare students to become competent professionals and lifelong learners.
+
+Vision:
+To become a leading technology-focused college recognized for academic excellence, innovation, and industry-oriented education.
+
+Core Values:
+- Academic Excellence
+- Integrity
+- Innovation
+- Professionalism
+- Lifelong Learning
+- Student Success
+
+Language of Instruction:
+English
+
+Official Website:
+www.abccollege.edu.np
+
+General Description:
+ABC College of Technology offers undergraduate education in technology, business, and engineering disciplines. The college emphasizes practical learning, project work, and skill development.
+
+==================================================
+CAMPUS INFORMATION
+==================================================
+
+Campus Features:
+- Academic buildings
+- Library
+- Computer laboratories
+- Student activity areas
+- Hostel
+- Administrative offices
+
+Campus Environment:
+The college provides a student-friendly academic environment designed for learning and practical education.
+
+==================================================
+ADMISSION INFORMATION
+==================================================
+
+Admission Period:
+Admissions are open every year from June through August.
+
+Who Can Apply:
+Students who meet the academic requirements for their chosen program.
+
+Required Documents:
+- Academic transcripts
+- Citizenship certificate or other identification document
+- Passport-size photographs
+
+Admission Office Hours:
+Sunday to Friday
+10:00 AM – 4:00 PM
+
+Admission Contact:
+Email:
+admissions@abccollege.edu.np
+
+Admission Process Overview:
+1. Submit application.
+2. Submit required documents.
+3. Verification of documents.
+4. Admission confirmation.
+
+Frequently Asked Admission Questions:
+
+Q: When are admissions open?
+A: Admissions are open from June to August.
+
+Q: What documents are required?
+A:
+- Academic transcripts
+- Identification document
+- Passport-size photographs
+
+Q: When is the admission office open?
+A: Sunday to Friday from 10:00 AM to 4:00 PM.
+
+==================================================
+ACADEMIC DEPARTMENTS
+==================================================
+
+-------------------------
+Computer Science Department
+-------------------------
+
+Degree Offered:
+Bachelor in Computer Science
+
+Head of Department:
+Dr. Ram Sharma
+
+Faculty Members:
+5 full-time faculty members
+
+Department Focus:
+Computer programming, software development, computing fundamentals, and practical technical education.
+
+-------------------------
+Business Department
+-------------------------
+
+Degree Offered:
+Bachelor in Business Administration (BBA)
+
+Faculty Members:
+4 faculty members
+
+Department Focus:
+Business management, entrepreneurship, and organizational studies.
+
+-------------------------
+Engineering Department
+-------------------------
+
+Programs Offered:
+- Civil Engineering
+- Software Engineering
+
+Faculty Members:
+8 faculty members
+
+Department Focus:
+Engineering education supported by practical and project-based learning.
+
+==================================================
+LIBRARY INFORMATION
+==================================================
+
+Opening Days:
+Sunday to Friday
+
+Opening Hours:
+8:00 AM – 5:00 PM
+
+Purpose:
+The library supports academic learning by providing books, digital materials, and study facilities.
+
+Library Facilities:
+- Reading Hall
+- Digital Resources
+- Internet Access
+- Reference Section
+
+Borrowing Rules:
+- Student ID card is required.
+- Maximum books allowed: 3
+- Borrowing period: 14 days
+- Late returns incur a fine.
+
+Student Responsibilities:
+- Return books on time.
+- Handle books carefully.
+- Carry student ID when borrowing books.
+- Follow library rules and maintain silence.
+
+Frequently Asked Library Questions:
+
+Q: What time does the library open?
+A: 8:00 AM.
+
+Q: What time does it close?
+A: 5:00 PM.
+
+Q: How many books can I borrow?
+A: Up to three books.
+
+Q: How long can I keep borrowed books?
+A: Fourteen days.
+
+==================================================
+COMPUTER LAB
+==================================================
+
+Opening Hours:
+8:00 AM – 6:00 PM
+
+Purpose:
+The computer laboratory provides students with computing resources for coursework, programming, research, and practical learning.
+
+Installed Software:
+- Python
+- Visual Studio Code
+- MySQL
+- Microsoft Office
+- AutoCAD
+
+Laboratory Rules:
+- No food or drinks.
+- Save work before leaving.
+- Report hardware issues immediately.
+
+Student Responsibilities:
+- Use computers responsibly.
+- Keep the laboratory clean.
+- Follow instructor guidance.
+- Report technical problems promptly.
+
+Frequently Asked Questions:
+
+Q: Which programming software is available?
+A: Python and Visual Studio Code.
+`
+Q: Is MySQL available?
+A: Yes.
+
+Q: Does the lab have Microsoft Office?
+A: Yes.
+
+==================================================
+CLUBS AND STUDENT ACTIVITIES
+==================================================
+
+The college encourages students to participate in extracurricular activities through various clubs.
+
+-------------------------
+Robotics Club
+-------------------------
+
+Meeting:
+Every Friday
+4:00 PM
+
+Activities:
+- Robotics competitions
+- Arduino workshops
+- IoT projects
+
+Purpose:
+To promote robotics and embedded systems learning.
+
+-------------------------
+Programming Club
+-------------------------
+
+Meeting:
+Every Wednesday
+3:00 PM
+
+Activities:
+- Coding challenges
+- Hackathons
+- Programming workshops
+
+Purpose:
+To improve programming and software development skills.
+
+-------------------------
+Sports Club
+-------------------------
+
+Sports:
+- Football
+- Basketball
+- Volleyball
+
+Purpose:
+To encourage physical fitness and teamwork.
+
+==================================================
+HOSTEL INFORMATION
+==================================================
+
+Hostel Capacity:
+200 students
+
+Facilities:
+- Wi-Fi
+- Laundry Service
+- Study Rooms
+- Security Service
+
+Office Hours:
+9:00 AM – 5:00 PM
+
+Hostel Purpose:
+The hostel provides residential accommodation with essential facilities for students.
+
+Frequently Asked Questions:
+
+Q: Does the hostel have Wi-Fi?
+A: Yes.
+
+Q: Are study rooms available?
+A: Yes.
+
+Q: Is security provided?
+A: Yes.
+
+==================================================
+SCHOLARSHIPS
+==================================================
+
+Available Scholarships:
+
+Merit Scholarship
+Description:
+Awarded to students with outstanding academic performance.
+
+Need-Based Scholarship
+Description:
+Available for financially disadvantaged students.
+
+Application Period:
+July through September
+
+Frequently Asked Questions:
+
+Q: What scholarships are available?
+A:
+- Merit Scholarship
+- Need-Based Scholarship
+
+Q: When can I apply?
+A:
+July to September.
+
+==================================================
+COLLEGE CONTACT INFORMATION
+==================================================
+
+Official Website:
+www.abccollege.edu.np
+
+Admissions Email:
+admissions@abccollege.edu.np
+
+Admission Office Hours:
+Sunday to Friday
+10:00 AM – 4:00 PM
+
+==================================================
+QUICK FACTS
+==================================================
+
+College Name:
+ABC College of Technology
+
+Established:
+2010
+
+Location:
+Kathmandu, Nepal
+
+Admission Months:
+June–August
+
+Library Hours:
+8 AM – 5 PM
+
+Computer Lab Hours:
+8 AM – 6 PM
+
+Hostel Capacity:
+200 students
+
+Computer Science Faculty:
+5
+
+Business Faculty:
+4
+
+Engineering Faculty:
+8
+
+Books Allowed:
+3
+
+Borrow Duration:
+14 days
+
+Robotics Club:
+Friday 4 PM
+
+Programming Club:
+Wednesday 3 PM
+
+Scholarship Application:
+July–September
+
+==================================================
+COMMON USER QUESTIONS
+==================================================
+
+User: Where is ABC College?
+Assistant: ABC College is located in Kathmandu, Nepal.
+
+User: When was the college established?
+Assistant: ABC College was established in 2010.
+
+User: What programs does the Engineering Department offer?
+Assistant: Civil Engineering and Software Engineering.
+
+User: Who is the Head of the Computer Science Department?
+Assistant: Dr. Ram Sharma.
+
+User: How many faculty members are in Engineering?
+Assistant: Eight faculty members.
+
+User: Can I borrow books?
+Assistant: Yes. Students may borrow up to three books for fourteen days.
+
+User: Does the hostel provide Wi-Fi?
+Assistant: Yes.
+
+User: What software is available in the computer lab?
+Assistant: Python, Visual Studio Code, MySQL, Microsoft Office, and AutoCAD.
+
+User: When does the Robotics Club meet?
+Assistant: Every Friday at 4:00 PM.
+
+User: When can I apply for scholarships?
+Assistant: Scholarship applications are accepted from July to September.
+
+==================================================
+UNKNOWN QUESTIONS
+==================================================
+
+If a user asks about:
+- Tuition fees
+- Semester calendar
+- Examination schedule
+- Teachers not listed
+- Phone numbers
+- Transportation
+- Cafeteria
+- Parking
+- Student portal
+- Course syllabus
+- GPA requirements
+- Internship opportunities
+- Placement records
+- Graduation requirements
+
+Reply exactly:
+
+"I do not have information about that topic in my current knowledge base."
